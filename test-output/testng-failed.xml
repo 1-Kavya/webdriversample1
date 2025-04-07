@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testscripts.GooglePageTest">
+      <class name="seleniumGrid.RemoteWebSampleTest">
         <methods>
-          <include name="seleniumsearch"/>
+          <include name="storiessearch"/>
         </methods>
-      </class> <!-- testscripts.GooglePageTest -->
+      </class> <!-- seleniumGrid.RemoteWebSampleTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

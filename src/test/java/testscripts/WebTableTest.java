@@ -24,7 +24,7 @@ public class WebTableTest {
 	  
 	  String authorName = driver.findElement(
 			  By.xpath("//td[contains(text(), '3000')]//preceding-sibling::td[2]")).getText();
-	  System.out.println("Details......"+items.size());
-	  
+	  System.out.println(authorName);
+	  //select a book name whose price is 2000
   }
 }
