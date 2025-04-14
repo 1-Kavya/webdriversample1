@@ -3,6 +3,7 @@
   <groupId>webdriversample1</groupId>
   <artifactId>webdriversample1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
   <dependencies> 
 
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
